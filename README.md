@@ -43,12 +43,12 @@ Lets say the design defines 2 different food types - Red (15 points) and Blue (2
 
 ## Submission 
 
-- Clone this repository onto your machine 
-- Create a new branch and name it __Assignment_YourName__
-- Once you have finished your awesome game push your changes to github and open a pull request to merge your branch into master branch. 
-- Include a text file in your branch which explains the design for your code in details - name this file __AssignmentDetails.txt__
+- Create a new github repository on your account  
+- Name it __Assignment_YourName__
+- Once you have finished your awesome game push your changes to github 
+- Include a readme file in your repository which explains the design for your code and solution in details - name this file __Readme.md__
 - If you are using some external tools/assets - highlight this in your text file and explain why you used them and what would you have done if these were not available to use
-- Once complete send the link to your pull request back to our Admissions/HR team that asked you to complete this coding challenge. 
+- Once complete send the link to your repository back to admissions@outscal.com along with your resume and what role you are applying for.  
 
 ## Good luck! Happy coding! 
 
