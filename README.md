@@ -48,7 +48,7 @@ Lets say the design defines 2 different food types - Red (15 points) and Blue (2
 - Once you have finished your awesome game push your changes to github 
 - Include a readme file in your repository which explains the design for your code and solution in details - name this file __Readme.md__
 - If you are using some external tools/assets - highlight this in your text file and explain why you used them and what would you have done if these were not available to use
-- Once complete send the link to your repository back to __admissions[at]outscal[dot]com__ along with your resume and what role you are applying for.  
+- Once complete send the link to your repository back to __admissions@outscal.com__ along with your resume and what role you are applying for.  
 
 ## Good luck! Happy coding! 
 
